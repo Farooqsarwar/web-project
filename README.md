@@ -27,8 +27,7 @@ Welcome to the official repository for the **Khayber Shinwari Restaurant** websi
 - **CSS3**: Styling for visual appeal.
 - **JavaScript**: Interactive elements and animations.
 - **Bootstrap**: Responsive design framework.
-- **Glightbox**: Lightbox for video display.
-- **AOS (Animate On Scroll)**: Scroll animations.
+
 - **Google Fonts**: Typography customization.
 
 ---
@@ -37,6 +36,6 @@ Welcome to the official repository for the **Khayber Shinwari Restaurant** websi
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Farooqsarwar/khayber-shinwari-website.git
-**"How to Run"**
+## How to Run
 open in vs code and run index.htm
 
